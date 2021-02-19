@@ -104,7 +104,7 @@ if (isset($_REQUEST['submit'])) {
           echo "<h1 style='color:red;text-align:center;'>Wrong Information</h1>";
         }
         ?>
-        <p>Forget <a href="#">Password</a></p>
+        <p>Forget <a href="recover_email.php">Password</a></p>
         <p>Sign Up?<a href="reg.php">Create account</a></p>
       </div>
     </div>
